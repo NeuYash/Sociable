@@ -1,0 +1,14 @@
+[
+  {
+    "blocked_by": 1,
+    "blocked_whom": 2
+  },
+  {
+    "blocked_by": 1,
+    "blocked_whom": 3
+  },
+  {
+    "blocked_by": 2,
+    "blocked_whom": 6
+  }
+]

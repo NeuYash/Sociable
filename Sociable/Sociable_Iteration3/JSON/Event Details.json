@@ -1,0 +1,27 @@
+[
+  {
+    "group_id": 1,
+    "event_name": "Event 1",
+    "event_date": "2022-12-05 23:59:59"
+  },
+  {
+    "group_id": 2,
+    "event_name": "Event 2",
+    "event_date": "2022-07-05 23:59:59"
+  },
+  {
+    "group_id": 3,
+    "event_name": "Event 2",
+    "event_date": "2022-08-05 23:59:59"
+  },
+  {
+    "group_id": 4,
+    "event_name": "Event 4",
+    "event_date": "2022-09-05 23:59:59"
+  },
+  {
+    "group_id": 5,
+    "event_name": "Event 5",
+    "event_date": "2022-12-05 23:59:59"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "user1_id": 1,
+    "user2_id": 2,
+    "category_id": 1,
+    "match_time": "2022-12-09 20:59:59"
+  },
+  {
+    "user1_id": 2,
+    "user2_id": 3,
+    "category_id": 2,
+    "match_time": "2022-09-06 23:59:59"
+  },
+  {
+    "user1_id": 1,
+    "user2_id": 3,
+    "category_id": 3,
+    "match_time": "2022-12-09 20:59:59"
+  },
+  {
+    "user1_id": 3,
+    "user2_id": 4,
+    "category_id": 4,
+    "match_time": "2022-12-08 23:59:59"
+  },
+  {
+    "user1_id": 1,
+    "user2_id": 5,
+    "category_id": 5,
+    "match_time": "2022-11-07 23:59:59"
+  }
+]
